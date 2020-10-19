@@ -19,6 +19,8 @@ import os
 
 def charger_data(args):
     """
+
+    
     Charge les training data et les divise en training et validation sets 
     """
     #lit le fichier CSV dans une seule variable dataframe
